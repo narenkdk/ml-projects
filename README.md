@@ -1,6 +1,6 @@
 # 🎥 Movie Recommendation System  
 
-Welcome to the **Movie Recommendation System** repository! This project demonstrates a machine learning-based recommendation system that suggests movies based on user-selected preferences.  
+Welcome to the **Movie Recommendation System** repository! This project demonstrates a machine learning-based recommendation system that suggests movies based on Content Based Recommender.  
 
 ## 🚀 Features  
 
@@ -34,12 +34,12 @@ Follow these steps to get the app running on your local machine:
 
 1. Clone the repository:  
    ```bash  
-   git clone https://github.com/your-username/movie-recommendation-system.git  
+   git clone https://github.com/narenkdk/ml-projects.git  
    ```  
 
 2. Navigate to the project directory:  
    ```bash  
-   cd movie-recommendation-system  
+   cd ml-projects 
    ```  
 
 3. Install the required dependencies:  
